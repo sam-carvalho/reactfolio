@@ -157,3 +157,8 @@ If you are using Apache as your web server, you can insert this into your .htacc
 ## 🌱 Contribution
 
 If you have any suggestions on what to improve in Reactfolio and would like to share them, feel free to leave an issue or fork project to implement your own ideas
+
+# Credits
+
+Photo by [Lauren Mancke](https://unsplash.com/@laurenmancke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/portfolio-dev?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
