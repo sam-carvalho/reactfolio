@@ -43,12 +43,12 @@ const INFO = {
 		},
 
 		{
-			title: "React Calculator",
+			title: "Travel Mate",
 			description:
-				"This is a simple, but fun, calculator app built with React, SCSS, and TypeScript.",
+				"A travel planning app designed to simplify and personalize the task of planning your next adventure using ChatGPT and Astro.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com/sam-carvalho/react-calculator",
+			link: "https://github.com/sam-carvalho/travel-mate",
 		},
 	],
 };
