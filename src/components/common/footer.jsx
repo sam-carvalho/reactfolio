@@ -26,7 +26,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Samantha Carvalho
+						© 2025 Samantha Carvalho
 					</div>
 				</div>
 			</div>

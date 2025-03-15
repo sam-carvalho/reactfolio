@@ -12,15 +12,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Senior Software Engineer",
+		title: "Software Engineer",
 		description:
-			"I am highly motivated Senior Software Engineer with 9 years of experience developing and testing complex and user friendly solutions for end users. Exceptionally skilled in critical thinking, troubleshooting and debugging software. Excellent ability to work independently or collaborate as a valued team member to drive projects from concept to completion within tight timelines.",
+			"I am highly motivated Software Engineer with over 9 years of experience in front-end development and QA automation. Proficient with modern technologies, including React, Next.js, TypeScript, Java, and GraphQL, as well as Node.js, Docker, SQL, Git, and CI/CD tools such as Jenkins, GitHub Actions, and GitLab. Passionate about designing intuitive, aesthetically pleasing user interfaces and ensuring the highest quality through rigorous testing. Committed to continuous learning and enhancing user experience with innovative solutions.",
 	},
 
 	about: {
-		title: "I'm Samantha Carvalho",
+		title: "👋🏼 I'm Samantha Carvalho",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Some of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Some of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to checkout the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback!",
 	},
 
 	projects: [

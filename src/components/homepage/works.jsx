@@ -15,13 +15,43 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="./1password.png"
+								alt="1password"
+								className="work-image"
+							/>
+							<div className="work-title">1Password</div>
+							<div className="work-subtitle">
+								Software Developer
+							</div>
+							<div className="work-duration">
+								February 2024 - Present
+							</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./aquanow.png"
+								alt="aquanow"
+								className="work-image"
+							/>
+							<div className="work-title">Aquanow</div>
+							<div className="work-subtitle">
+								Software Engineer
+							</div>
+							<div className="work-duration">
+								July 2023 - January 2024
+							</div>
+						</div>
+
+						<div className="work">
+							<img
 								src="./realtor.png"
 								alt="realtor.com"
 								className="work-image"
 							/>
 							<div className="work-title">realtor.com</div>
 							<div className="work-subtitle">
-								Senior Software Engineer
+								Software Engineer
 							</div>
 							<div className="work-duration">
 								March 2021 - June 2023
@@ -34,7 +64,9 @@ const Works = () => {
 								alt="rba"
 								className="work-image"
 							/>
-							<div className="work-title">Ritchie Bros.</div>
+							<div className="work-title">
+								Ritchie Bros. Auctioneers
+							</div>
 							<div className="work-subtitle">
 								QA Automation Developer
 							</div>
@@ -51,25 +83,10 @@ const Works = () => {
 							/>
 							<div className="work-title">Dell Technologies</div>
 							<div className="work-subtitle">
-								Software Engineer In Test Intern
+								Software Engineer Intern
 							</div>
 							<div className="work-duration">
 								June 2015 - June 2016
-							</div>
-						</div>
-
-						<div className="work">
-							<img
-								src="./cnpq.png"
-								alt="cnpq"
-								className="work-image"
-							/>
-							<div className="work-title">CNPq</div>
-							<div className="work-subtitle">
-								Software Developer Intern
-							</div>
-							<div className="work-duration">
-								May 2014 - May 2015
 							</div>
 						</div>
 					</div>
