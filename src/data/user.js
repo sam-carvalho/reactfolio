@@ -25,30 +25,28 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Pet Name Generator",
+			description:
+				"This project utilizes the power of OpenAI's ChatGPT to generate unique and creative names for your beloved pets. Whether you have a dog, cat, bird, or any other pet, this app will provide you with a wide range of pet name suggestions.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
+			linkText: "View Project",
+			link: "https://github.com/sam-carvalho/pet-name-generator",
+		},
+		{
+			title: "Marketing Website",
+			description:
+				"A marketing website for a fictional company. Still a work in progress, but the goal is to create a visually appealing and informative website that effectively communicates the company's offerings.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
+			linkText: "View Project",
+			link: "https://github.com/sam-carvalho/travel-mate",
+		},
+		{
 			title: "Service Catalog",
 			description:
 				"The service catalog app allows users to add and categorize services. It provides a user-friendly interface for managing services and organizing them into different categories.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
 			linkText: "View Project",
 			link: "https://github.com/sam-carvalho/service-catalog",
-		},
-
-		{
-			title: "Pet Name Generator",
-			description:
-				"This app utilizes the power of OpenAI's Product Name Generator AI to generate unique and creative names for your beloved pets. Whether you have a dog, cat, bird, or any other pet, this app will provide you with a wide range of pet name suggestions.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
-			linkText: "View Project",
-			link: "https://github.com/sam-carvalho/pet-name-generator",
-		},
-
-		{
-			title: "Travel Mate",
-			description:
-				"A travel planning app designed to simplify and personalize the task of planning your next adventure using ChatGPT and Astro.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
-			linkText: "View Project",
-			link: "https://github.com/sam-carvalho/travel-mate",
 		},
 	],
 };
