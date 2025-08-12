@@ -14,13 +14,13 @@ const INFO = {
 	homepage: {
 		title: "Software Engineer",
 		description:
-			"I am highly motivated Software Engineer with over 9 years of experience in front-end development and QA automation. Proficient with modern technologies, including React, Next.js, TypeScript, Java, and GraphQL, as well as Node.js, Docker, SQL, Git, and CI/CD tools such as Jenkins, GitHub Actions, and GitLab. Passionate about designing intuitive, aesthetically pleasing user interfaces and ensuring the highest quality through rigorous testing. Committed to continuous learning and enhancing user experience with innovative solutions.",
+			"Software Engineer with 9+ years of experience building, testing, and optimizing high-performing full-stack applications using tools such as React, Next.js, and Node.js. Experienced in optimizing Core Web Vitals, improving developer workflows with CI/CD, and working with edge networks like Cloudflare. Passionate about performance, developer experience, and intuitive user interfaces.",
 	},
 
 	about: {
 		title: "👋🏼 I'm Samantha Carvalho",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Some of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to checkout the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback!",
+			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Some of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to checkout the code and suggest any improvements or features you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback!",
 	},
 
 	projects: [
@@ -33,12 +33,12 @@ const INFO = {
 			link: "https://github.com/sam-carvalho/pet-name-generator",
 		},
 		{
-			title: "Marketing Website",
+			title: "TravelPack",
 			description:
-				"A marketing website for a fictional company. Still a work in progress, but the goal is to create a visually appealing and informative website that effectively communicates the company's offerings.",
+				"Reduce travel stress with an organized system for managing trips and packing needs!",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png",
 			linkText: "View Project",
-			link: "https://github.com/sam-carvalho/travel-mate",
+			link: "https://github.com/sam-carvalho/travelpack",
 		},
 		{
 			title: "Service Catalog",
